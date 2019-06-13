@@ -57,7 +57,9 @@ Check out some of the available themes you can choose from.
  # Donate
 - Bitcoin  = 
 - Ethereum = 
-- Paypal =  [https://paypal.me/j0rd1?locale.x=es_ES](https://paypal.me/j0rd1?locale.x=es_ES)
+- Paypal = <a href='https://www.paypal.me/j0rd1?locale.x=es_ES/1'>
+<img src='https://getflywheel.com/wp-content/uploads/2015/10/paypal-donate-button-large.png' alt='PayPal Me' width='160' />
+</a> 
 
 
 
