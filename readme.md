@@ -2,7 +2,7 @@
 
 # ProtonMail Theme Pack
 
-A protonmail.com Themes
+A protonmail.com Themes ( Click in theme photo to use it )
 
 ## Hacker Terminal Theme
 
