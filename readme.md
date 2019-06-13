@@ -6,11 +6,11 @@ A protonmail.com Themes
 
 ## Hacker Terminal Theme
 
-[![alt tag](https://i.imgur.com/xnMMUO0.png)](URL)
+[![alt tag](https://i.imgur.com/xnMMUO0.png)](https://github.com/j0rd1s3rr4n0/protonmail_themes/blob/master/hackertheme)
 
 ## RAREBLUE Theme
 
-[![alt tag](https://i.imgur.com/cxgRcXd.png)](URL)
+[![alt tag](https://i.imgur.com/cxgRcXd.png)](https://github.com/j0rd1s3rr4n0/protonmail_themes/blob/master/rareblue)
 
 ## Hacker Terminal Theme
 
