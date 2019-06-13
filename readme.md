@@ -8,9 +8,9 @@ A protonmail.com Themes
 
 [![alt tag](https://i.imgur.com/xnMMUO0.png)](URL)
 
-## Hacker Terminal Theme
+## RAREBLUE Theme
 
-[![alt tag](https://i.imgur.com/xnMMUO0.png)](URL)
+[![alt tag](https://i.imgur.com/cxgRcXd.png)](URL)
 
 ## Hacker Terminal Theme
 
